@@ -20,6 +20,6 @@
 
 Στο φάκελο ProjectMaterial.zip θα βρείτε το αρχικό project
 
-Στπ PDF SoftDevII-Project-2021-Backlog.pdf θα βρείτε την εκφώνηση του project
+Στo PDF SoftDevII-Project-2021-Backlog.pdf θα βρείτε την εκφώνηση του project
 
 
