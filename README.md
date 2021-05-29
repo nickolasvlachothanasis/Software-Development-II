@@ -18,8 +18,10 @@
 
 # Info
 
-Στο φάκελο ProjectMaterial.zip θα βρείτε το αρχικό project
+Στον φάκελο ProjectMaterial.zip θα βρείτε το αρχικό project
 
 Στo PDF SoftDevII-Project-2021-Backlog.pdf θα βρείτε την εκφώνηση του project
 
+Στον φάκελο "Minnesota Income Tax Calculation Project" θα βρείτε το τελικό project
 
+Στo PDF report θα βρείτε το report του project
