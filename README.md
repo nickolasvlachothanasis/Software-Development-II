@@ -1,6 +1,6 @@
 # Software-Development-II
 
-Το project υλοποιήθηκε στα πλαίσια του μαθήματος Software Development II απο : https://youtu.be/M4KwxcR0UEE
+Το project υλοποιήθηκε στα πλαίσια του μαθήματος Software Development II απο : 
 
 Πασόη Σοφία,           username(GitHub) : SofiaPasoi
 
@@ -9,7 +9,7 @@
 Βλαχοθανάσης Νικόλαος, username(GitHub) : nickolasvlachothanasis
 
 # Video Report
-Εδώ βρίσκεται το video report στο YouTuBe:
+Εδώ βρίσκεται το video report στο YouTuBe: https://youtu.be/M4KwxcR0UEE
 
 
 # Goal
