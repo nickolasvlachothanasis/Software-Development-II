@@ -1,27 +1,32 @@
-# Software-Development-II
+# Software Development II
 
-Το project υλοποιήθηκε στα πλαίσια του μαθήματος Software Development II απο : 
+This project was developed as part of the course **Software Development II** by:
 
-Πασόη Σοφία,           username(GitHub) : SofiaPasoi
+- **Sofia Pasoi** — GitHub: [SofiaPasoi](https://github.com/SofiaPasoi)  
+- **Vasilis Georgiou** — GitHub: [VasilisGeorgiou](https://github.com/VasilisGeorgiou)  
+- **Nikolaos Vlachothanasis** — GitHub: [nickolasvlachothanasis](https://github.com/nickolasvlachothanasis)
 
-Γεωργίου Βασίλειος,    username(GitHub) : VasilisGeorgiou
+---
 
-Βλαχοθανάσης Νικόλαος, username(GitHub) : nickolasvlachothanasis
+## 🎥 Video Report
 
-# Video Report
-Εδώ βρίσκεται το video report στο YouTuBe: https://youtu.be/M4KwxcR0UEE
+A short video report is available on YouTube:  
+📺 [Watch the Video Report](https://youtu.be/M4KwxcR0UEE)
 
+---
 
-# Goal
+## 🧩 Goal
 
-Σκοπός είναι η πραγματοποίηση refactor σε ένα δοθέν project
+The objective of this project was to **refactor** an existing codebase provided as part of the course materials.
 
-# Info
+---
 
-Στον φάκελο ProjectMaterial.zip θα βρείτε το αρχικό project
+## 📁 Project Contents
 
-Στo PDF SoftDevII-Project-2021-Backlog.pdf θα βρείτε την εκφώνηση του project
+- `ProjectMaterial.zip` — Contains the original, unrefactored project  
+- `SoftDevII-Project-2021-Backlog.pdf` — The official project description and requirements  
+- `Minnesota Income Tax Calculation Project/` — The final refactored version of the project  
+- `report.pdf` — Final project report with analysis and documentation
 
-Στον φάκελο "Minnesota Income Tax Calculation Project" θα βρείτε το τελικό project
+---
 
-Στo PDF report θα βρείτε το report του project
